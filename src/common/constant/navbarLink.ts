@@ -11,12 +11,12 @@ export const dataNavbar: Navbar[] = [
     navigate_url: "projects",
     offset: -105,
   },
-  {
-    id: 3,
-    navigate: "Blog",
-    navigate_url: "blog",
-    offset: 0,
-  },
+  // {
+  //   id: 3,
+  //   navigate: "Blog",
+  //   navigate_url: "blog",
+  //   offset: 0,
+  // },
   {
     id: 4,
     navigate: "Contact",

@@ -49,11 +49,12 @@ const HomeContent = () => {
               {METADATA.authors.name}.
             </h1>
             <p className="">
-              Welcome to my corner of the web, a digital space where I share my
-              thoughts, experiences, and insights on software engineering and
-              technology. In my free time, I build coding tutorials and
-              experiment with new web app technologies. Also, your comments,
-              questions, and shared experiences are always welcome here.
+            Welcome to my personal website!
+            Here, I share my journey in software development,
+            from learning new technologies to building projects.
+            I also enjoy creating coding tutorials and trying out
+            different web development tools. Feel free to explore,
+            ask questions, or share your thoughts!
             </p>
           </motion.div>
           <motion.div className="order-2 md:order-1 relative" layout>
@@ -84,8 +85,8 @@ const HomeContent = () => {
         <div className="overflow-hidden">
           <h1 className="text-2xl font-bold mb-2">Favorite Things</h1>
           <p className="mb-4">
-            I love exploring new libraries, frameworks and programing languages.
-            Here is a list of technologies that I have worked with.
+            I Love Alisya Fauzia Husna <br></br>
+            I enjoy learning new programming languages, frameworks, and tools. Here are some technologies I’ve worked with:
           </p>
           <div className="mb-4">
             <SkillList />

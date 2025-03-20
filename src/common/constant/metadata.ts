@@ -1,25 +1,25 @@
 export const METADATA = {
-  creator: "Ival Shamkya",
+  creator: "Muhammad Rifki Kurniawan",
   description:
-    "Personal website, portfolio, blog, software engineer roadmap, programming tips of Ival Shamkya",
+    "Personal website, portfolio, blog, software engineer roadmap, programming tips of Muhammad Rifki Kurniawan",
   keyword:
-    "ival shamkya, programming tips, belajar javascript, belajar typescript",
+    "Muhammad Rifki Kurniawan, programming tips, belajar javascript, belajar typescript",
   authors: {
-    name: "Ival Shamkya",
-    nickname: "Ival",
-    url: "ivalshamkya.com",
+    name: "Muhammad Rifki Kurniawan",
+    nickname: "Rifki",
+    url: " ",
     isAvailable: true
   },
   openGraph: {
-    url: "ivalshamkya.com",
-    siteName: "Ival Shamkya",
+    url: "",
+    siteName: "Muhammad Rifki Kurniawan",
     locale: "id-ID",
-    img: "https://res.cloudinary.com/dlalunvp7/image/upload/v1700074068/profile/Frame_bmcike.jpg"
+    img: ""
   },
-  exTitle: "| Ival Shamkya",
+  exTitle: "| Muhammad Rifki Kurniawan",
   profile: {
-    img: "https://res.cloudinary.com/dlalunvp7/image/upload/v1700070073/profile/1903gjv0qfjqwAiqwoik9012if901iasd.jpg",
-    icon: "https://res.cloudinary.com/dlalunvp7/image/upload/v1700071347/profile/IMG_9355_xmuxta.png"
+    img: "/gambar/r.jpg",
+    icon: "/gambar/s.png"
   }
     // "https://res.cloudinary.com/dlalunvp7/image/upload/ar_1:1,c_fill,g_auto,w_1000/v1697806090/IMG_9165_dug8uz.jpg",
 };

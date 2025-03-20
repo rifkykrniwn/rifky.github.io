@@ -5,18 +5,11 @@ import { SiGithub, SiLinkedin, SiTiktok } from "react-icons/si";
 const year = new Date().getFullYear().toString();
 ---
 
-<footer class="w-full py-2 px-5 md:px-1 mt-20 flex justify-between items-center">
+<footer class="w-full py-2 px-5 md:px-1 mt-20 flex justify-center items-center">
   <div>
     <div class="flex items-center gap-1 text-sm py-1 text-neutral-600 dark:text-neutral-400 font-sora">
       <span>©</span>
       <span>{new Date().getFullYear()}</span>
-      <span>with</span>
-      <div class="relative inline-flex justify-center items-center">
-        <div class="text-red-500 rounded-full">❤️</div>
-        <div class="text-red-500 absolute top-0 left-0 animate-ping">❤️</div>
-        <div class="text-red-500 absolute top-0 left-0 animate-pulse">❤️</div>
-      </div>
-      <span>by</span>
       <span class="hover:dark:text-neutral-400 cursor-pointer">{METADATA.authors.name}</span>
     </div>
   </div>

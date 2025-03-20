@@ -1,32 +1,17 @@
 export const SOCIALS = {
-    twitter: {
-        username: 'ivalshamkya',
-        icon: 'twitter',
-        url: 'http://twitter.com',
-    },
-    facebook: {
-        username: 'ivalshamkya',
-        icon: 'facebook',
-        url: 'http://www.facebook.com',
-    },
     linkedin: {
-        username: 'ivalshamkya',
+        username: 'rifkykrniwn',
         icon: 'linkedin',
-        url: 'http://www.linkedin.com/in/ivalshamkya',
+        url: 'http://www.linkedin.com/in/rifkikrniwn',
     },
     instagram: {
-        username: 'ival__shamkya',
+        username: 'rifkykrniwn',
         icon: 'instagram',
-        url: 'https://www.instagram.com/ival__shamkya/?hl=en',
-    },
-    tiktok: {
-        username: 'ival__shamkya',
-        icon: 'Tiktok',
-        url: 'https://www.tiktok.com/@ivalshamkya'
+        url: 'https://www.instagram.com/rifkykrniwn',
     },
     github: {
-        username: 'ivalshamkya',
+        username: 'rifkykrniwn',
         icon: 'Github',
-        url: 'https://github.com/ivalshamkya'
+        url: 'https://github.com/rifkykrniwn'
     }
 };
