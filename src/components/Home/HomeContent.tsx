@@ -85,7 +85,6 @@ const HomeContent = () => {
         <div className="overflow-hidden">
           <h1 className="text-2xl font-bold mb-2">Favorite Things</h1>
           <p className="mb-4">
-            I Love Alisya Fauzia Husna <br></br>
             I enjoy learning new programming languages, frameworks, and tools. Here are some technologies I’ve worked with:
           </p>
           <div className="mb-4">
